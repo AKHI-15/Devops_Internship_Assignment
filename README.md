@@ -77,3 +77,7 @@ Python Service (via NGINX):
 http://localhost:8080/service2/ping
 
 http://localhost:8080/service2/hello
+## 🔗 Docker Compose File
+
+You can view the [docker-compose.yml](https://github.com/AKHI-15/Devops_Internship_Assignment/blob/master/docker-compose.yml) here.
+
